@@ -10,11 +10,11 @@ License:	GPL v2+ and LGPL v2+
 Group:		Libraries
 Source0:	http://pub.mate-desktop.org/releases/1.5/%{name}-%{version}.tar.xz
 # Source0-md5:	e118c73d6d0a6208039df377bb501241
-URL:		http://mate-desktop.org/
+URL:		http://wiki.mate-desktop.org/libmatekeyring
 BuildRequires:	dbus-devel
-BuildRequires:	glib2-devel
+BuildRequires:	glib2-devel >= 2.16.0
 BuildRequires:	gtk-doc
-BuildRequires:	intltool
+BuildRequires:	intltool >= 0.35.0
 BuildRequires:	libgcrypt-devel
 BuildRequires:	mate-common
 BuildRequires:	tar >= 1:1.22
