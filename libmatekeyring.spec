@@ -4,12 +4,12 @@
 
 Summary:	Framework for managing passwords and other secrets
 Name:		libmatekeyring
-Version:	1.5.0
+Version:	1.5.1
 Release:	1
 License:	GPL v2+ and LGPL v2+
 Group:		Libraries
 Source0:	http://pub.mate-desktop.org/releases/1.5/%{name}-%{version}.tar.xz
-# Source0-md5:	e118c73d6d0a6208039df377bb501241
+# Source0-md5:	846f5370e793f519bd5f68ab912eb3a5
 URL:		http://wiki.mate-desktop.org/libmatekeyring
 BuildRequires:	dbus-devel
 BuildRequires:	glib2-devel >= 2.16.0
