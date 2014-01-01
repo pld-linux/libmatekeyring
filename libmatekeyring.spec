@@ -5,12 +5,12 @@
 Summary:	Framework for managing passwords and other secrets
 Summary(pl.UTF-8):	Szkielet do zarządzania hasłami i innymi tajnymi danymi
 Name:		libmatekeyring
-Version:	1.6.0
-Release:	2
+Version:	1.6.1
+Release:	1
 License:	GPL v2+ and LGPL v2+
 Group:		Libraries
 Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	f2f5408aca0cc0f9b914f3a910fcb5c8
+# Source0-md5:	2c20a62778f4bf8240011fe03c97a05e
 URL:		http://wiki.mate-desktop.org/libmatekeyring
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.9
