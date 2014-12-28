@@ -15,7 +15,7 @@ URL:		http://wiki.mate-desktop.org/libmatekeyring
 BuildRequires:	autoconf >= 2.53
 BuildRequires:	automake >= 1:1.9
 BuildRequires:	dbus-devel >= 1.0
-BuildRequires:	gettext-devel >= 0.10.40
+BuildRequires:	gettext-tools >= 0.10.40
 BuildRequires:	glib2-devel >= 1:2.16.0
 BuildRequires:	gtk-doc >= 1.9
 BuildRequires:	intltool >= 0.35.0
